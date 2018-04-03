@@ -8,3 +8,5 @@ if amari != 0:
 else:
     print u"割り切れた"
 
+
+
